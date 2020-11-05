@@ -1,2 +1,2 @@
-# JAVA_Git2
-JAVA Study 
+# SemiProject_JungBa
+SemiProject_JungBa 
