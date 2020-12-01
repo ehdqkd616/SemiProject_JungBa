@@ -163,7 +163,7 @@ hr {
                 </div>
             	</form>    
                 <div id="tableDiv">
-                	<table class="contentsTable" width="800px" align="center">
+                	<table class="contentsTable" width="900px" align="center">
 	                	<thead>
 	                        <tr>
 	                            <th>번호</th>
