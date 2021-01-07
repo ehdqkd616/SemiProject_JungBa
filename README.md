@@ -43,21 +43,22 @@ ___
 
 <br>
 
- ### 로그인
+ ### 로그인·계정 찾기
 
-![MusicStage_LoginPage](https://user-images.githubusercontent.com/64412357/103778820-2316ec80-5076-11eb-9159-1197ef9edb5b.png)
- 
-- 로그인, 일반 회원가입, 카카오 회원가입이 가능하다.
-- 회원 이름과 이메일을 통해 아이디를 찾을 수 있고, 아이디와 이메일을 통해 임시 비밀번호를 부여받을 수 있다.
+![JUNGBA_LoginPage](https://user-images.githubusercontent.com/64412357/103849812-05cf3600-50e9-11eb-94a8-57ab6dec14d4.png)
+![JUNGBA_SearchId](https://user-images.githubusercontent.com/64412357/103850341-5b581280-50ea-11eb-8beb-44ed0ce37007.png)
+![JUNGBA_SearchPassword](https://user-images.githubusercontent.com/64412357/103850344-5bf0a900-50ea-11eb-9094-68c38b3a7809.png)
+![JUNGBA_ChangePassword](https://user-images.githubusercontent.com/64412357/103850345-5c893f80-50ea-11eb-9fb8-c1bd60b986db.png)
+
+- 로그인, 카카오 로그인, 회원가입이 가능하다.
+- 회원 이름과 휴대폰 번호 혹은 이메일을 통해 아이디를 찾을 수 있다.
+- 회원 이름과 아이디와 이메일 혹은 휴대폰 번호를 통해 비밀번호를 재설정 할 수 있다.
 
 <br>
 
  ### 회원가입
 
 ![JUNGBA_InsertMember(Sample)](https://user-images.githubusercontent.com/64412357/103849511-3793cd00-50e8-11eb-8737-a36b901f2f9e.png)
-| 약관 동의 | 회원 가입 | 관심사 선택 |
-|:--------:|:--------:|:-----------:|
-|<img src="https://user-images.githubusercontent.com/64412357/103780263-1b584780-5078-11eb-8cef-7e3cca5caa3a.png" width="350px" height="450px" alt="MusicStage_InsertMember1">|<img src="https://user-images.githubusercontent.com/64412357/103780268-1c897480-5078-11eb-8e0f-663ccc643183.png" width="350px" height="450px" alt="MusicStage_InsertMember2">|!<img src="https://user-images.githubusercontent.com/64412357/103783861-94599e00-507c-11eb-870b-6b2905b049c9.png" width="200px" height="200px" alt="MusicStage_Interests">|
 
 1. 일반 회원가입, 카카오 회원가입 시 모두 약관 동의 후 회원가입이 진행된다.
 2. 아이디, 비밀번호, 이메일, 휴대폰 등의 정보를 정해진 정규표현식에 맞게 작성해야하고, 아이디는 중복확인을 해야한다.
